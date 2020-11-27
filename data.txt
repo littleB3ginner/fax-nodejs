@@ -1,0 +1,1 @@
+[{"username":"ananas","email":"ananas@mail.com","fullname":"ananas banana","age":"100","location":"Mpek","gender":"Male","_id":0},{"username":"nemanja","email":"nesto@gmail.com","fullname":"nemanja galbinovic","age":"22","location":"nis","gender":"musko valjda","_id":1}]
